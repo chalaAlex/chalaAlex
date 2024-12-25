@@ -17,22 +17,28 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/getx-ptj7nxajtqsh8c5es82v7v.png/getx-vnd39vxjsdnntvftfldztc.png?_a=DAJFJtWIZAAC" alt="mysql" width="40" height="40"/> </a>
-- Special Interests: [Mobile App Development, Web Development, Backend Systems, Machine Learning]
 
-<h2 align="left">Portfolio Highlights</h2>
+<blockquote>
+  <p> 
+    Flutter  Express  Firebase  Provider   Git & GitHub   MySQL    GetX
+  </p>
+</blockquote>
+
+<blockquote>
+  <p> 
+    JQuery   Bootstrap   HTML  CSS   RestAPI   
+  </p>
+</blockquote>
 
 <h2 align="left">Currently Learning</h2>
-[Technologies or areas of study, e.g., React, MongoDB, Advanced Algorithms]
-
+I am currently learning MongoDB, PostgreSQL and CI/CD Pipeline. Also I am working on my <a href = "https://github.com/chalaAlex/flutter-E-Commerce-App"> E-Commerce-App </a> to add search Products, User authentication, DataBase support to make the project 
+market ready.
+ 
 <h2 align="left">Goals</h2>
 Seeking internship opportunities to apply and grow my skills in a collaborative and innovative environment.
 
 <h2 align="left">Reach Me</h2>
 
 - Email: chalaalemayehu1824@gmail.com
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio Website: [If applicable]
+- LinkedIn: <a href = "https://www.linkedin.com/in/chala-alemayehu-bb44ab263/"> </a>
+- Portfolio Website: <a href = "https://clever-chebakia-691412.netlify.app/"> </a>
