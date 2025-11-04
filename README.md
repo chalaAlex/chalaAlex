@@ -31,7 +31,7 @@
 </blockquote>
 
 <h2 align="left">Currently Learning</h2>
-I am currently on Researching on how Face detection systems work to automate attendance recording manual workflows by using Face detection Models
+I am currently on Researching on how Face detection systems work to automate attendance recording manual workflows by using Face detection and recognition Models
  
 <h2 align="left">Goals</h2>
 Seeking internship opportunities to apply and grow my skills in a collaborative and innovative environment.
