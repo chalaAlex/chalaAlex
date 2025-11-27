@@ -40,4 +40,4 @@ Seeking internship opportunities to apply and grow my skills in a collaborative 
 
 - Email: chalaalemayehu1824@gmail.com
 - <a href = "https://www.linkedin.com/in/chala-alemayehu-bb44ab263/" target="_blank">LinkedIn</a>
-- <a href = "https://clever-chebakia-691412.netlify.app/" target="_blank">Portfolio Website</a>
+- <a href = "portfolio0718.netlify.app" target="_blank">Portfolio Website</a>
